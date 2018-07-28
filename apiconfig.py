@@ -21,7 +21,7 @@ WEBAPI_TOKEN = 'yuntuapi'
 MUDB_FILE = 'mudb.json'
 
 # Mysql
-MYSQL_HOST = 'az01.uswest.rds.codec-cluster.org'
+MYSQL_HOST = 'ha01.lax.rds.codec-cluster.org'
 MYSQL_PORT = 3306
 MYSQL_USER = 'yuntu'
 MYSQL_PASS = 'ss'
