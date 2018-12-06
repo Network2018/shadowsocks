@@ -8,20 +8,20 @@ CLOUDSAFE = 1
 ANTISSATTACK = 0
 AUTOEXEC = 0
 
-MU_SUFFIX = 'icloud-content.com'
+MU_SUFFIX = 'my.sharepoint.com'
 MU_REGEX = '%5m%id.%suffix'
 
 SERVER_PUB_ADDR = '127.0.0.1'  # mujson_mgr need this to generate ssr link
 API_INTERFACE = 'glzjinmod'  # glzjinmod, modwebapi
 
-WEBAPI_URL = 'https://cp.yuntu.cloud'
-WEBAPI_TOKEN = 'yuntuapi'
+WEBAPI_URL = 'https://town.yuntu.ca'
+WEBAPI_TOKEN = 'lxiv'
 
 # mudb
 MUDB_FILE = 'mudb.json'
 
 # Mysql
-MYSQL_HOST = 'ha01.lax.rds.codec-cluster.org'
+MYSQL_HOST = 'rds-us-lax.chacha20.org'
 MYSQL_PORT = 3306
 MYSQL_USER = 'yuntu'
 MYSQL_PASS = 'ss'
